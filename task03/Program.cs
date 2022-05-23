@@ -8,7 +8,7 @@ Console.Write($" {array[i]} ");
 }
 PrintArray (array); 
 Console.WriteLine();
-//
+
 double max=array[0];
 double min=array[0];
 for (int j=0; j<array.Length; j++)
